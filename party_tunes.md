@@ -8,9 +8,11 @@ Martyn's Best Party Tunes
 * 5) David Bowie - Heroes
 * 6) Charlie XCX - 1999
 * 8) Sam Fender - Hypersonic Missiles
-* 10) MIA – Paper Planes
+* 9) Vanessa Carlton - 1000 miles.
+* 10) Smashmouth - Allstar
 * 11) Linkin Park - In the end
-* 12) vanessa carlton - 1000 miles.
-* 13) Il volo - Nel blu dipinto di blu
+* 12) Tupac - Hail Mary
+* 13) MIA – Paper Planes
+>>>>>>> 1e2748c2db8d0f9c65869cdbf20e5e9fc2bcfdf2
 * 14) Tupac - Hail Mary
 
