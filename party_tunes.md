@@ -13,12 +13,9 @@ Martyn's Best Party Tunes
 * 10) MIA – Paper PlanesD
 * 9) Linkin Park - In the end
 * 11) vanessa carlton - 1000 miles.
-* 10) vanessa carlton - 1000 miles.
 * 11) Tupac - Hail Mary
 * 12) vincent fernandez - El rey
 * 9) Vanessa Carlton - 1000 miles.
 * 10) Smashmouth - Allstar
 * 11) Linkin Park - In the end
-* 12) Tupac - Hail Mary
 * 13) MIA – Paper Planes
-* 14) Tupac - Hail Mary
