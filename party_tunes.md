@@ -12,3 +12,5 @@ Martyn's Best Party Tunes
 * 10) MIA – Paper Planes
 * 9) Linkin Park - In the end
 * 11) vanessa carlton - 1000 miles.
+* 10) vanessa carlton - 1000 miles.
+* 11) Tupac - Hail Mary
