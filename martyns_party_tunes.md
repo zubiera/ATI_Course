@@ -7,3 +7,4 @@ Martyn's Best Party Tunes
 * 4) Elton John - Tiny Dancer
 * 5) David Bowie - Heroes
 * 6) Charlie XCX - 1999
+* 7) The Lancashire Hotpots - Chippy Tea
