@@ -12,3 +12,4 @@ Martyn's Best Party Tunes
 * 10) Smashmouth - Allstar
 * 11) Linkin Park - In the end
 * 12) Tupac - Hail Mary
+* 13) MIA – Paper Planes
